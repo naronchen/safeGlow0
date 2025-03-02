@@ -1,0 +1,198 @@
+[
+    {
+        "coordinates": {
+            "latitude": 39.962345,
+            "longitude": -75.195678
+        },
+        "crimeCategory": "Shooting",
+        "crimeDescription": "A Shooting reported near the intersection, no injuries reported.",
+        "date": "2025-02-01"
+    },
+    {
+      "coordinates": {
+          "latitude": 39.962345,
+          "longitude": -75.195678
+      },
+      "crimeCategory": "Shooting",
+      "crimeDescription": "A Shooting reported near the intersection, no injuries reported.",
+      "date": "2025-01-08"
+    },
+    {
+        "coordinates": {
+            "latitude": 39.955123,
+            "longitude": -75.190456
+        },
+        "crimeCategory": "Property Crime",
+        "crimeDescription": "Break-in reported at a local business, items stolen.",
+        "date": "2025-01-02"
+    },
+    {
+        "coordinates": {
+            "latitude": 39.960987,
+            "longitude": -75.200123
+        },
+        "crimeCategory": "Robbery/Gun",
+        "crimeDescription": "Armed robbery reported at a convenience store, suspect fled on foot.",
+        "date": "2025-03-01"
+    },
+    {
+        "coordinates": {
+            "latitude": 39.96715845784776,
+            "longitude": -75.2118944171663
+        },
+        "crimeCategory": "Rape",
+        "crimeDescription": "Sexual assault reported in a nearby park, investigation ongoing.",
+        "date": "2025-01-28"
+    },
+    {
+        "coordinates": {
+            "latitude": 39.963456,
+            "longitude": -75.198765
+        },
+        "crimeCategory": "Aggravated Assault",
+        "crimeDescription": "Assault with a deadly weapon reported, victim hospitalized.",
+        "date": "2025-01-31"
+    },
+    
+        {
+          "coordinates": {
+            "latitude": 39.960123,
+            "longitude": -75.190456
+          },
+          "crimeCategory": "Shooting",
+          "crimeDescription": "Shooting reported near a local business area.",
+          "date": "2024-02-15"
+        },
+        {
+          "coordinates": {
+            "latitude": 39.958765,
+            "longitude": -75.200321
+          },
+          "crimeCategory": "Property crime",
+          "crimeDescription": "Property damage and burglary reported at a residential building.",
+          "date": "2025-02-25"
+        },
+        {
+          "coordinates": {
+            "latitude": 39.963002,
+            "longitude": -75.190987
+          },
+          "crimeCategory": "Robbery/Gun",
+          "crimeDescription": "Armed robbery incident occurred at a convenience store.",
+          "date": "2025-02-28"
+        },
+        {
+          "coordinates": {
+            "latitude": 39.963316045385106,
+            "longitude": -75.19749943221619
+          },
+          "crimeCategory": "Rape",
+          "crimeDescription": "Sexual assault investigation underway following a reported incident.",
+          "date": "2025-01-08"
+        },
+        {
+          "coordinates": {
+            "latitude": 39.956122012758115,
+            "longitude": -75.20635743221649
+          },
+          "crimeCategory": "Rape",
+          "crimeDescription": "Sexual assault investigation underway following a reported incident.",
+          "date": "2025-01-08"
+        },
+        {
+          "coordinates": {
+            "latitude": 39.959234,
+            "longitude": -75.197845
+          },
+          "crimeCategory": "Aggrevated Assult",
+          "crimeDescription": "Aggravated assault with a deadly weapon reported in the area.",
+          "date": "2025-02-22"
+        },
+        {
+          "coordinates": {
+            "latitude": 39.967630183038146,
+            "longitude": -75.20064671626568
+          },
+          "crimeCategory": "Shooting",
+          "crimeDescription": "Location Block: 3900 BLOCK BROWN ST PSA#: 1 Police District: 16th",
+          "date": "2025-02-13"
+        },
+        {
+          "coordinates": {
+              "latitude": 39.964483,
+              "longitude": -75.198015
+          },
+          "crimeCategory": "Shooting",
+          "crimeDescription": "Reported shooting incident.",
+          "date": "2025-02-16"
+      },
+      {
+          "coordinates": {
+              "latitude": 39.964381,
+              "longitude": -75.200022
+          },
+          "crimeCategory": "Shooting",
+          "crimeDescription": "Reported shooting incident.",
+          "date": "2025-02-15"
+      },
+      {
+        "coordinates": { "latitude": 39.962021, "longitude": -75.188270 },
+        "crimeCategory": "Rape",
+        "crimeDescription": "Reported crime incident at the specified location.",
+        "date": "2025-02-18"
+    },
+    {
+        "coordinates": { "latitude": 39.961011, "longitude": -75.190359 },
+        "crimeCategory": "Property Crime",
+        "crimeDescription": "Reported crime incident at the specified location.",
+        "date": "2025-02-25"
+    },
+    {
+        "coordinates": { "latitude": 39.963192, "longitude": -75.185528 },
+        "crimeCategory": "Aggravated Assault",
+        "crimeDescription": "Reported crime incident at the specified location.",
+        "date": "2025-02-21"
+    },
+    {
+        "coordinates": { "latitude": 39.955271, "longitude": -75.200730 },
+        "crimeCategory": "Aggravated Assault",
+        "crimeDescription": "Reported crime incident at the specified location.",
+        "date": "2025-02-06"
+    },
+    {
+        "coordinates": { "latitude": 39.9616719940385, "longitude": -75.1912563616986},
+        "crimeCategory": "Shooting",
+        "crimeDescription": "Reported crime incident at the specified location.",
+        "date": "2025-02-08"
+    },
+    {
+        "coordinates": { "latitude": 39.957832, "longitude": -75.203179 },
+        "crimeCategory": "Rape",
+        "crimeDescription": "Reported crime incident at the specified location.",
+        "date": "2025-02-20"
+    },
+    {
+        "coordinates": { "latitude": 39.958177, "longitude": -75.192640 },
+        "crimeCategory": "Robbery/Gun",
+        "crimeDescription": "Reported crime incident at the specified location.",
+        "date": "2025-02-10"
+    },
+    {
+        "coordinates": { "latitude": 39.963486, "longitude": -75.196346 },
+        "crimeCategory": "Rape",
+        "crimeDescription": "Reported crime incident at the specified location.",
+        "date": "2025-02-15"
+    },
+    {
+        "coordinates": { "latitude": 39.957275, "longitude": -75.195680 },
+        "crimeCategory": "Robbery/Gun",
+        "crimeDescription": "Reported crime incident at the specified location.",
+        "date": "2025-02-14"
+    },
+    {
+        "coordinates": { "latitude": 39.958440, "longitude": -75.195705 },
+        "crimeCategory": "Property Crime",
+        "crimeDescription": "Reported crime incident at the specified location.",
+        "date": "2025-02-10"
+    }
+]

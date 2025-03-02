@@ -1,0 +1,84 @@
+
+### Drexel Alert: Suspicious activity reported near the crossing at node/4161472997.
+POST http://localhost:3000/alert HTTP/1.1
+Content-Type: application/json
+
+{
+  "latitude": 39.95618965,
+  "longitude": -75.19415495,
+  "description": "Drexel Alert! Suspicious activity reported near PNC bank.",
+  "nearestnode": "node/4161472997",
+  "nodeweight": 100
+}
+
+### Drexel Alert: Burglary reported near the Dormitory Area.
+POST http://localhost:3000/alert HTTP/1.1
+Content-Type: application/json
+
+{
+  "latitude": 39.9556751,
+  "longitude": -75.1894725,
+  "description": "Drexel Alert! Burglary reported near the Dormitory Area.",
+  "nearestnode": "node/3413844294",
+  "nodeweight": 0.9
+}
+
+### Drexel Alert: Assault incident reported near the Library Entrance.
+POST http://localhost:3000/alert HTTP/1.1
+Content-Type: application/json
+
+{
+  "latitude": 39.9558782,
+  "longitude": -75.19147065,
+  "description": "Drexel Alert! Assault incident reported near the Library Entrance.",
+  "nearestnode": "node/4161472993",
+  "nodeweight": 0.95
+}
+
+### Drexel Alert: Vandalism reported near the Administrative Building.
+POST http://localhost:3000/alert HTTP/1.1
+Content-Type: application/json
+
+{
+  "latitude": 39.9554075,
+  "longitude": -75.194222,
+  "description": "Drexel Alert! Vandalism reported near the Administrative Building.",
+  "nearestnode": "node/4477512961",
+  "nodeweight": 1.0
+}
+
+### Drexel Alert: Pickpocketing reported near the Student Center.
+POST http://localhost:3000/alert HTTP/1.1
+Content-Type: application/json
+
+{
+  "latitude": 39.9550947,
+  "longitude": -75.191724,
+  "description": "Drexel Alert! Pickpocketing reported near the Student Center.",
+  "nearestnode": "node/4696697648",
+  "nodeweight": 0.95
+}
+
+### Drexel Alert: Organized theft reported near the Main Campus Entrance.
+POST http://localhost:3000/alert HTTP/1.1
+Content-Type: application/json
+
+{
+  "latitude": 39.958483,
+  "longitude": -75.1936717,
+  "description": "Drexel Alert! Organized theft reported near the Main Campus Entrance.",
+  "nearestnode": "node/7835909870",
+  "nodeweight": 1.0
+}
+
+### Drexel Alert: Assault reported near the Faculty Offices.
+POST http://localhost:3000/alert HTTP/1.1
+Content-Type: application/json
+
+{
+  "latitude": 39.9566178,
+  "longitude": -75.191427,
+  "description": "Drexel Alert! Assault reported near the Faculty Offices.",
+  "nearestnode": "node/7835909878",
+  "nodeweight": 1.0
+}
